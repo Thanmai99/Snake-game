@@ -1,4 +1,4 @@
-# Snake-game
+# Snake game
 This project implements a **SnakeMania** game using HTML, CSS, and JavaScript. It creates an interactive game where the player controls a snake that moves around the screen to eat food, growing in length with each item consumed. The game includes features like scoring, a high score tracker, collision detection, and sound effects.
 
 ## How It Works
