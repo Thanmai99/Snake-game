@@ -15,3 +15,6 @@ The core logic is found in several key functions:
 - `gameEngine()` : Updates the game state, including snake movement, food regeneration, score updates, and collision checks.
 - `main(ctime)` : Controls the game loop, ensuring that the game updates at the correct speed.
 - `keyboard controls (keydown)`: Handles the player's input for controlling the snake's movement.
+
+## Usage
+1. Clone this repository
