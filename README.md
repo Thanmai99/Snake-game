@@ -11,7 +11,7 @@ This project implements a **SnakeMania** game using HTML, CSS, and JavaScript. I
 ## Code Overview
 The core logic is found in several key functions:
 
-- isCollide(snake) : Checks if the snake collides with itself or the boundaries of the game board.
-- gameEngine() : Updates the game state, including snake movement, food regeneration, score updates, and collision checks.
-- main(ctime) : Controls the game loop, ensuring that the game updates at the correct speed.
+- `isCollide(snake)` : Checks if the snake collides with itself or the boundaries of the game board.
+- `gameEngine()` : Updates the game state, including snake movement, food regeneration, score updates, and collision checks.
+- `main(ctime)` : Controls the game loop, ensuring that the game updates at the correct speed.
 - `keyboard controls (keydown)`: Handles the player's input for controlling the snake's movement.
