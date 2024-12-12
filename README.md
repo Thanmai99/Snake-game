@@ -18,4 +18,5 @@ The core logic is found in several key functions:
 
 ## Usage
 1. Clone this repository
-   ```git clone https://github.com/Thanmai99/Snake-game.git```
+   ```bash
+   git clone https://github.com/Thanmai99/Snake-game.git
